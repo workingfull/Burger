@@ -2,4 +2,4 @@
 
 - HTML
 - CSS
-- Flexbox
+- Flexbox CSS
